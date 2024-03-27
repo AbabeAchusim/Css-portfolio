@@ -1,0 +1,51 @@
+body{
+    background: url(images/portfolio.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    position: relative;
+
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+li{
+    float: left;
+    background-color: #020E1C;
+    display: inline;
+    font-family:'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+video{
+    background-color: #F07E39;
+    width: 300px; height: 500px;
+    position: absolute; top: 0; right: 0;
+    
+}
+h1{
+    /* text-align: center; */
+    color: #934b22;
+
+}
+.p1{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+
+}
+h4{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+.p2{
+    text-align: center;
+    color: #934b22;
+    font-size: 20px;
+}
